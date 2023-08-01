@@ -1,0 +1,3 @@
+#!/bin/bash
+#This is use in saving a file in the vi or vim
+echo "C-x C-s"

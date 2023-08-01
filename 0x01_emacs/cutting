@@ -1,0 +1,3 @@
+#!/bin/bash
+#This is use to cut a file in the vim or emacs
+echo "C-k C-w"

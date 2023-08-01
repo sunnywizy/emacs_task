@@ -1,0 +1,3 @@
+#!/bin/bash
+#This is use to undoing in vim or emacs
+echo "C-x u C-_"

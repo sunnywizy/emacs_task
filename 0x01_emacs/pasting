@@ -1,0 +1,3 @@
+#!/bin/bash
+#This is use to paste a file in the vim or emacs
+echo "y"

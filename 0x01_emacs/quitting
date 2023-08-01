@@ -1,0 +1,3 @@
+#!/bin/bash
+#This is use in quitting a file in vim or emacs
+echo ":q!"

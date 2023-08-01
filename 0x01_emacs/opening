@@ -1,0 +1,3 @@
+#!/bin/bash
+#Thid is how to open a file in the emacs or vim in the CLI
+echo "C-x C-f"

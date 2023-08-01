@@ -1,0 +1,3 @@
+#!/bin/bash
+#This is use to searching for vim or emacs
+echo "C-s C-r"
